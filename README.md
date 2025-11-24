@@ -160,7 +160,8 @@ proprietary/prime-resonance/
     └── EXAMPLES.md
 ```
 
-**Contact for Access**: [Your Email]
+**Contact for Access**: [dragoman6002@gmail.com] 
+ON X DM @DanDanAIman
 
 ---
 
@@ -265,7 +266,7 @@ proprietary/full-analytics-suite/
     └── CASE_STUDIES.md
 ```
 
-**Contact for Access**: [Your Email]
+**Contact for Access**
 
 ---
 
@@ -377,10 +378,10 @@ All proprietary systems are protected by:
 
 ### For Cleveland Browns Organization:
 
-**Contact**: [Your Name]  
-**Email**: [Your Email]  
-**Phone**: [Your Phone]  
-**LinkedIn**: [Your LinkedIn]  
+**Contact**: [Daniel Dragolich]  
+**Email**: [dragoman6002@gmail.com]  
+**Phone**: [email first]  
+**X Handle**: [@DanDanAIman]  
 
 **To Request Access**:
 1. Email me with "Browns Partnership Inquiry" in subject
@@ -400,7 +401,7 @@ I'm available to discuss the technology (without revealing proprietary details) 
 - Articles
 - TV/Radio appearances
 
-**Contact**: [Your Email]
+**Contact**: 
 
 ---
 
@@ -470,11 +471,10 @@ And they're available to the Cleveland Browns **right now**.
 
 ---
 
-**Contact**: [Your Email] | [Your Phone] | [Your LinkedIn]
 
-**Repository**: [GitHub Link]
+**Repository**: [github.com/dragoman6002-ux/Cleveland-browns-analytics-]
 
-**X/Twitter**: [@YourHandle]
+**X/Twitter**: [@DanDanAIman]
 
 ---
 
@@ -482,6 +482,6 @@ And they're available to the Cleveland Browns **right now**.
 
 ---
 
-**Last Updated**: [Date]  
+**Last Updated**: [11/24/2025]  
 **Status**: 🔒 LOCKED - Available to Cleveland Browns Organization  
 **Access Level**: Partnership Required
